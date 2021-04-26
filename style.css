@@ -290,6 +290,9 @@ header nav ul li {
 /* Landscape phones and down */
 
 @media (max-width: 480px) {
+    header {
+        height: calc(100vh - 60px);
+    }
     body {
         margin-bottom: 55px;
     }
