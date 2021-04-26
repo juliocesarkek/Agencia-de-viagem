@@ -3,12 +3,12 @@
    O modelo desenvolvido foi com base no conteúdo apresentado no canal do youtube "Papo de Dev".
     
     
-#Desktop
+# Desktop
 
 ![](https://github.com/juliocesarkek/Agencia-de-viagem/blob/main/Assets/Tela_desktop.gif?raw=true)
 
 
 
-#Mobile
+# Mobile
 
 ![](https://github.com/juliocesarkek/Agencia-de-viagem/blob/main/Assets/Tela_mobile.gif?raw=true)
